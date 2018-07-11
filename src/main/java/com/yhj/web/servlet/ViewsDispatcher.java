@@ -40,7 +40,7 @@ public final class ViewsDispatcher extends HttpServlet {
 		try {
 			viewsHandler.doDispatchHandle(requestURI, request, response);
 		} catch (Exception e) {
-		
+			response.sendError(500);
 		}
 		
 	}
