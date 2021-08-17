@@ -9,6 +9,8 @@
 [![Java CI](https://github.com/TAKETODAY/today-web/workflows/Java%20CI/badge.svg)](https://github.com/TAKETODAY/today-web/actions)
 
 
+moved to https://github.com/TAKETODAY/today-framework/tree/master/src/main/java/cn/taketoday/web
+
 ## 背景
 <details>
   <summary>先不看</summary>
